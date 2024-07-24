@@ -1,10 +1,16 @@
+# Creo en una carpeta accediendo con CMD donde prueba es el nombre que asignare al proyecto
+npx create-react-app prueba
+
+# Accedo al proyecto
+cd .
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+En el directorio, puedesw ejecutar el proyecto con:
 
 ### `npm start`
 
